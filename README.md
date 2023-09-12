@@ -1,5 +1,7 @@
 # Desafio do Titanic - Kaggle
 
+<img src="./images/titanic-readme.jpg" alt="logo">
+
 Este é o meu repositório para o Desafio do Titanic no Kaggle. O desafio é baseado em um conjunto de dados de passageiros do RMS Titanic e o objetivo é prever quem sobreviveu e quem não sobreviveu ao desastre com base em várias características dos passageiros.
 
 Este projeto foi criado como parte de um aprendizado de máquina e ciência de dados e busca aprimorar minhas habilidades em análise de dados, pré-processamento, modelagem e avaliação de modelos de aprendizado de máquina.
