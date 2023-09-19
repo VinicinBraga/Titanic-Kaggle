@@ -8,13 +8,7 @@ Este projeto foi criado como parte de um aprendizado de máquina e ciência de d
 
 ## Estrutura do Repositório
 
-- **notebooks**: Esta pasta contém os notebooks Jupyter usados para explorar e modelar os dados.
-
-- **data**: Aqui você encontrará os conjuntos de dados de treinamento e teste fornecidos pelo Kaggle.
-
-- **scripts**: Qualquer script Python relacionado ao projeto que não esteja em um notebook pode ser encontrado aqui.
-
-- **resultados**: Este diretório armazena os resultados e modelos treinados.
+<img src="https://i.gifer.com/origin/3b/3b6982bf4ee809f9e63c902f14c252b0_w200.webp" alt="const">
 
 ## Licença
 Este projeto é licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
